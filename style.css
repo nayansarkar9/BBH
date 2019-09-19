@@ -1,0 +1,67 @@
+body{
+font-family: 'Lobster', cursive;
+}
+.top{
+	height: 50px;
+	float: left;
+	text-align: center;
+	padding: 0;
+}
+.wrap{
+	width: 1170px;
+}
+.phone{
+	
+	margin-left: 10px;
+}
+.main-nav{
+	float: right;
+}
+.topcontainer{
+	background-color: pink;
+	width: 100%;
+}
+.topnav{
+	list-style-type: none;
+	display: inline-block; 
+}
+.topnav li{
+	display: inline-block;
+	padding: 12px 25px;
+	font-size: 18px;
+}
+.topnav li:hover{
+	background-color: brown;
+}
+.topnav li a{
+	color: white;
+	text-decoration: none;
+}
+.navbar{
+	float: right;
+
+}
+.container2{
+	background: linear-gradient(to bottom, #ff6666 8%, #cc3300 100%);
+	height: 50px;
+}
+.brand{
+	float: left;
+	font-family: 'Lobster', cursive;
+	    height: 50px;
+    color: white;
+    padding: 9px;
+    font-size: 22px
+}
+.container3{
+	width: 100%;
+	background-image: linear-gradient(rgba(48, 0, 43),rgba(35, 0, 0 ,0.8)),url("hand-holding-1404623_1280.jpg");
+  	background-repeat: no-repeat;
+  	background-size: 100% 100%;
+  	margin: 0 auto;
+  	height: 500px;
+}
+.banner1 {
+  color: white;
+  text-align: center;
+}
